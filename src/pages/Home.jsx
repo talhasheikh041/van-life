@@ -4,7 +4,7 @@ const Home = () => {
   return (
     <div className="md:mx-auto md:max-w-5xl">
       <section className="text-gray-100" id="home-page">
-        <div className="bg-[url('.\assets\img\home-hero.png')] bg-cover bg-no-repeat px-8 py-8 md:px-20 md:py-14 md:pt-20">
+        <div className="bg-hero-img bg-cover bg-no-repeat px-8 py-8 md:px-20 md:py-14 md:pt-20">
           <h1 className="text-3xl font-bold md:w-3/4 md:text-5xl">
             You got the travel plans, we got the travel vans.
           </h1>
